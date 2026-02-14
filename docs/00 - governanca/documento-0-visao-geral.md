@@ -126,3 +126,32 @@ A documentação deve ser:
 ## 8. Histórico de Revisão
 
 Versão revisada após definição formal de Visão e Hipótese do Produto.
+
+------------------------------------------------------------------------
+
+## 9. Modelo de Gestão de Trabalho
+
+O TryCatch adota formalmente o Documento Estratégico --- Modelo de
+Gestão de Trabalho.
+
+Ele define:
+
+-   Uso de Flight Levels;
+-   Organização por Épicos e Issues;
+-   Aplicação de INVEST;
+-   Definition of Done (DoD);
+-   Templates oficiais de issue.
+
+Este modelo integra a governança oficial do projeto.
+
+------------------------------------------------------------------------
+
+## 10. Observabilidade e Logging
+
+O projeto adota padrão técnico formal de logging estruturado.
+
+Documento relacionado:
+
+-   Documento Técnico --- Padrão de Logging
+
+Logs são parte da qualidade técnica e da rastreabilidade do sistema.
